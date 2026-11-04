@@ -1,0 +1,56 @@
+[
+  {
+    "id": "reading",
+    "icon": "▤",
+    "category": "조용한 시간",
+    "title": "책 10페이지 읽기",
+    "description": "짧은 글이나 책 한 챕터로 생각의 속도를 늦춰봐요.",
+    "minutes": 15,
+    "tag": "혼자서도 좋아요"
+  },
+  {
+    "id": "walk",
+    "icon": "⌁",
+    "category": "몸 움직이기",
+    "title": "동네 한 바퀴 산책",
+    "description": "휴대폰은 잠시 넣어두고 주변 풍경을 천천히 살펴봐요.",
+    "minutes": 15,
+    "tag": "가볍게 시작"
+  },
+  {
+    "id": "music",
+    "icon": "♫",
+    "category": "감각 깨우기",
+    "title": "좋아하는 음악 듣기",
+    "description": "화면을 보지 않고 한 곡을 처음부터 끝까지 들어봐요.",
+    "minutes": 5,
+    "tag": "짧은 리셋"
+  },
+  {
+    "id": "journal",
+    "icon": "✎",
+    "category": "나를 돌아보기",
+    "title": "종이에 한 줄 기록하기",
+    "description": "오늘 고마웠던 일이나 기억하고 싶은 순간을 적어봐요.",
+    "minutes": 5,
+    "tag": "아날로그 한 장"
+  },
+  {
+    "id": "talk",
+    "icon": "♡",
+    "category": "사람과 연결",
+    "title": "가까운 사람과 대화하기",
+    "description": "메시지 대신 목소리로 안부를 묻고 이야기를 나눠봐요.",
+    "minutes": 15,
+    "tag": "함께하는 시간"
+  },
+  {
+    "id": "culture",
+    "icon": "✳",
+    "category": "새로운 경험",
+    "title": "공연·전시 찾아보기",
+    "description": "이번 주에 직접 경험해 보고 싶은 문화생활을 찾아봐요.",
+    "minutes": 20,
+    "tag": "주말 계획"
+  }
+]
